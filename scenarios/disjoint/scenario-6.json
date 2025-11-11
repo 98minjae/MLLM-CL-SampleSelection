@@ -1,0 +1,11 @@
+[
+    {
+        "client_id": 0,
+        "datasets":[
+            {"dataset": "standard_cl","subset_id": 0, "type":"multi-choice"},
+            {"dataset": "standard_cl","subset_id": 1, "type":"multi-choice"},
+            {"dataset": "standard_cl","subset_id": 2, "type":"multi-choice"},
+            {"dataset": "standard_cl","subset_id": 3, "type":"multi-choice"}
+        ] 
+    }
+]

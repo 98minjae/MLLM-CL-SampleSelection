@@ -1,0 +1,22 @@
+[
+    {
+        "client_id": 0,
+        "datasets":[
+            {"dataset": "SuperNI","subset_id": 0, "type":"open-ended"},
+            {"dataset": "SuperNI","subset_id": 1, "type":"open-ended"},
+            {"dataset": "SuperNI","subset_id": 2, "type":"open-ended"},
+            {"dataset": "SuperNI","subset_id": 3, "type":"open-ended"},
+            {"dataset": "SuperNI","subset_id": 4, "type":"multi-choice"},
+            {"dataset": "SuperNI","subset_id": 5, "type":"open-ended"},
+            {"dataset": "SuperNI","subset_id": 6, "type":"open-ended"},
+            {"dataset": "SuperNI","subset_id": 7, "type":"open-ended"},
+            {"dataset": "SuperNI","subset_id": 8, "type":"open-ended"},
+            {"dataset": "SuperNI","subset_id": 9, "type":"open-ended"},
+            {"dataset": "SuperNI","subset_id": 10, "type":"open-ended"},
+            {"dataset": "SuperNI","subset_id": 11, "type":"multi-choice"},
+            {"dataset": "SuperNI","subset_id": 12, "type":"multi-choice"},
+            {"dataset": "SuperNI","subset_id": 13, "type":"multi-choice"},
+            {"dataset": "SuperNI","subset_id": 14, "type":"open-ended"}
+        ] 
+    }
+]

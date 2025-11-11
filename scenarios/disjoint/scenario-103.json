@@ -1,0 +1,8 @@
+[
+    {
+        "client_id": 0,
+        "datasets":[
+            {"dataset": "RecipeQA_TextCloze","subset_id": 0, "type":"multi-choice"}
+        ] 
+    }
+]

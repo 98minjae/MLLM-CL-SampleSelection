@@ -1,0 +1,26 @@
+[
+    {
+        "client_id": 0,
+        "datasets":[
+            {"dataset": "citb","subset_id": 0, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 1, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 2, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 3, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 4, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 5, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 6, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 7, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 8, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 9, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 10, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 11, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 12, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 13, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 14, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 15, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 16, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 17, "type":"open-ended"},
+            {"dataset": "citb","subset_id": 18, "type":"open-ended"}
+        ] 
+    }
+]

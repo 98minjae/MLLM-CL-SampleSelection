@@ -1,0 +1,8 @@
+[
+    {
+        "client_id": 0,
+        "datasets":[
+            {"dataset": "Bongard-HOI","subset_id": 90, "type":"multi-choice"}
+        ] 
+    }
+]
