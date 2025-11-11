@@ -16,7 +16,6 @@ from transformers import AutoTokenizer, AutoModel
 
 import copy
 from transformers import AutoProcessor, HfArgumentParser
-# , Qwen2_5_VLForConditionalGeneration
 
 ACCESS_TOKEN = ""
 
